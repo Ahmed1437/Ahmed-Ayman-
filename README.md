@@ -1,8 +1,8 @@
 # Hi 👋, I'm Ahmed Ayman
 
-### 🧑‍💻 I’m Computer Engineer
+### 🧑‍💻 I’m AI (ML / DL) Engineer & Data Scientist
 
-### 💻📘 I’m Enthusiast and interested in AI/DataScience/DataAnalysis/MachineLearing/DeepLearning/ComputerVision/NaturalLanguageProcessing
+### 💻📘 I’m Experienced and Enthusiast in AI/DataScience/DataAnalysis/MachineLearing/DeepLearning/ComputerVision/NaturalLanguageProcessing
 
 ### 🤝 I’m looking to collaborate on AI/DataScience/DataAnalysis/MachineLearing/DeepLearning/ComputerVision/NaturalLanguageProcessing
 <br>

@@ -17,20 +17,18 @@
 🛠 **Creativity & Innovation:** I pride myself on my ability to think outside the box and develop creative solutions that push the boundaries of AI and GenAI.
 
 ---
-
+- CV: [View My CV](https://drive.google.com/file/d/1rSg82NMdpID9HNT-SWV76X04NSsBMkQ_/view?usp=drive_link)
+---
 ## Connect with Me 📫
 
 Feel free to reach out to me through the following platforms: 
 <br>
+
+<a href="https://www.linkedin.com/in/ahmed1437/">
+  <img src="https://github.com/Ahmed1437/Ahmed1437/blob/main/Icons/linkedin.png" width="30" height="30" alt="LinkedIn"/>
+</a>
 <br>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmed1437/">
-    <img src="https://github.com/Ahmed1437/Ahmed1437/blob/main/Icons/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:ahmed.ayman1437@gmail.com">
-    <img src="https://github.com/Ahmed1437/Ahmed1437/blob/main/Icons/gmail.png" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="YOUR_CV_LINK_HERE">
-    <img src="https://github.com/Ahmed1437/Ahmed1437/blob/main/Icons/cv.png" alt="CV" width="40" height="40"/> <!-- Replace with your CV icon -->
-  </a>
-</p>
+<a href="mailto:ahmed.ayman1437@gmail.com">
+  <img src="https://github.com/Ahmed1437/Ahmed1437/blob/main/Icons/gmail.png" width="30" height="30" alt="Gmail"/>
+</a>
+<br>

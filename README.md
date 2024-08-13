@@ -23,7 +23,7 @@
 
 Feel free to reach out to me through the following platforms: 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahmed1437/">
+  <a href="https://www.linkedin.com/in/ahmed-ayman-samir">
     <img src="https://github.com/Ahmed1437/Ahmed1437/blob/main/Icons/linkedin.png" width="30" height="30" alt="LinkedIn"/>
   </a>
   <br/><a href="mailto:ahmed.ayman1437@gmail.com">
